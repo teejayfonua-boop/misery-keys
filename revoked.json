@@ -1,0 +1,32 @@
+{
+ "5": {
+  "product": 5,
+  "issued": 1792846928873,
+  "ids": [
+   "bd823bc0e9a7"
+  ],
+  "sig": "WyQ5hEBFSbRBoeRzIaoVXfTEheGUpc5Av9X1O44CJn/lHn9s/QReuIOquCfbgS/YFYYyt2XQOSCCpQ6WZZTHDw=="
+ },
+ "6": {
+  "product": 6,
+  "issued": 1792846928873,
+  "ids": [],
+  "sig": "d0ZasAaEjIKy6b/zGPEy7AZLayl1lbTzpdCAZEsBkbBR+LYXLkYxCGLZ1p2rZjNPx3bmH7JYnz0d8LLJW+XbAg=="
+ },
+ "7": {
+  "product": 7,
+  "issued": 1792846928873,
+  "ids": [
+   "6ada64cd81f5"
+  ],
+  "sig": "p5m2qPC86svOtjdPdp5jmRU3w2EwODoSvfSCRr0OwJYS1ymIEBTWxV1xhwg/xrhs32jiqqSTp5wxpdIG/UugCw=="
+ },
+ "8": {
+  "product": 8,
+  "issued": 1792846928873,
+  "ids": [
+   "4cea8a6bd46f"
+  ],
+  "sig": "FgDK/u85zcjyovQYrBA5x0hB25fKDpISYu0OlVz5fSWqG1J0HiDdEbrxGoPeemf5w2kc1drOFl62aHqE5yDoAA=="
+ }
+}
