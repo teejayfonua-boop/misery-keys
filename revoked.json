@@ -1,25 +1,15 @@
 {
  "5": {
   "product": 5,
-  "issued": 1794063941552,
+  "issued": 1794063945948,
   "ids": [
+   "8c0c34def919",
    "8ab644d7875d",
    "bd823bc0e9a7",
    "d0c28c681a9e"
   ],
-  "sig": "kAwThlJHkt8q0ExLnDQQMVNulJRiUHQBL+7bg9BvcfwZyebH1LheHp08uV7QzL74Gbvm0ZI20SnI97G3zWnnAw==",
+  "sig": "cSYemPJIO2ZmNQMQMH6lEGimGYaiDHd7o6uf2PItVXnRKE4sEwInwI9dYQuvy+rDG1UhLeyXGYFT4RBtT8w/Bg==",
   "keys": [
-   {
-    "b": "37",
-    "s": "855c0a83977ac10f",
-    "h": "e48782e73d1f650d7fe1e22c6b9bbdc351fd88a128759e963505234c5b2ab84f",
-    "id": "8c0c34def919",
-    "u": "g5",
-    "t": "Monthly",
-    "i": 1794063941435,
-    "e": 1796655941435,
-    "m": null
-   },
    {
     "b": "6a",
     "s": "c150c9f74039207c",
@@ -70,25 +60,25 @@
     "m": null
    }
   ],
-  "ksig": "z66KyDwU5K8EYNkG5y5NzEAuODQVQruYQfslvKUEGwfwfbAQtl2sIuFdj3mD2geqJYrd0xyJgmXtd5mRYMs/BA=="
+  "ksig": "s29V4tLtCos6OsmBT3yF2IbhVBmk+yA+ZQ0V2jyVOPSQeNCOBfoKSLcpMGZfB0A5h4+qmEbgLnn9sZcMJkV9AQ=="
  },
  "6": {
   "product": 6,
-  "issued": 1794063941552,
+  "issued": 1794063945948,
   "ids": [],
-  "sig": "jl1lZ7PBRguF1wCAnhij3EjkuG5xTeh8718g0HXzNMNxq5BYmpg6Ph6qvT8w1m+vR3tkw+8sn09WXtb4/meUCg==",
+  "sig": "RYhMmiMxJaTs507kOQVBm4O8V9aSmlmDN9PXcxExNBIOJB3F56kzWofxPY/TLAkmssfYJu0NzcGHMxH84ElFDQ==",
   "keys": [],
-  "ksig": "C3vU8WDvBPXHlqYOf4GKytSULNtvR8ASs7j4OFtKP7QxyOdKNuX5X8rTrQpxwGFAWFCkUsDEzFvSrB2nIXOLDw=="
+  "ksig": "ssynV2vu913g8ChxzXzwtcG1ntT9ltsb06k+y+Woevqe4J9vD02S31d6xXgTrQhZKLyG3AlQLHGWMhoUhefhAg=="
  },
  "7": {
   "product": 7,
-  "issued": 1794063941552,
+  "issued": 1794063945948,
   "ids": [
    "1c2fd3e21e0e",
    "eee72de0a1f2",
    "a94560318870"
   ],
-  "sig": "fghX5H2GICNeW1CnNRtRvDtKaFvrx1tU5JiGpEGdDsbfEq/bqryTzGs4jXMba6YKajYuUDWH/vQH2DkZoZmeDQ==",
+  "sig": "2aTew3bLCgr5bXmA3ADWSoIorIH1+OwDP5c4toe2kc/T5kJzSWvugC2hqgGx/W+WSDxwuMKF7ri9GmJWS4nAAw==",
   "keys": [
    {
     "b": "0c",
@@ -129,16 +119,16 @@
     "m": null
    }
   ],
-  "ksig": "IMRq0MCP89i7DsT6kpUQRkCEqbBj94a6SUxtidZlc0AGTUrL7Nun8ENbIyauGZFgZ1hFbuV6jc+UybSnSuw9Bw=="
+  "ksig": "3eXdu0ZV+rYWmpwGcszZUCj9qid5FE4eekxow1bwsB2lJ6HnU1tM0H5bK+aBYOt190MjB6fTLtexflZWDKIOAA=="
  },
  "8": {
   "product": 8,
-  "issued": 1794063941552,
+  "issued": 1794063945948,
   "ids": [
    "4cea8a6bd46f"
   ],
-  "sig": "SYq5KgbZ6hzOrk1latazB5kCEKkWaJGQfVLggw2tkIVZELYbUrQrX0JSBZ1h1ATA42f1pxH7lawkuY9qu4zbCQ==",
+  "sig": "uj2Kk2rEByOGahrwnFZ4pa2/JijlcByX6Kd3RDhAm+zSZc4fc6dbveUNvhckwXMVttgFVd6ttOnYvsogwWigAA==",
   "keys": [],
-  "ksig": "MbLus46NnWhLOGQpDv3Iyi+4522Z+55Y4CSqIJrMWoiRBOFRG5HOaGn7CCBaZlmopdDKg88Fic24ohnfbHnBCQ=="
+  "ksig": "vhFXMmg4Debsm42AiszJl3r5olKGiZFP1/aE8Cl+TWmG5JHO/MPD6b2LOVilq0sKoqep/rmMjasTj+pcnDjIDg=="
  }
 }
